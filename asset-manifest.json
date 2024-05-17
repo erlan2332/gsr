@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gsr-react/static/css/main.58524c9e.css",
+    "main.css": "/gsr-react/static/css/main.b694eaa2.css",
     "main.js": "/gsr-react/static/js/main.c8399682.js",
     "static/js/453.09dbb142.chunk.js": "/gsr-react/static/js/453.09dbb142.chunk.js",
     "static/media/carousel_photo3.jpg": "/gsr-react/static/media/carousel_photo3.f0f550494963e70bd01a.jpg",
@@ -28,12 +28,12 @@
     "static/media/Group 4955.png": "/gsr-react/static/media/Group 4955.eabeab09c654dabe3715.png",
     "static/media/agrostroy.png": "/gsr-react/static/media/agrostroy.addcf461c86438d12d8c.png",
     "index.html": "/gsr-react/index.html",
-    "main.58524c9e.css.map": "/gsr-react/static/css/main.58524c9e.css.map",
+    "main.b694eaa2.css.map": "/gsr-react/static/css/main.b694eaa2.css.map",
     "main.c8399682.js.map": "/gsr-react/static/js/main.c8399682.js.map",
     "453.09dbb142.chunk.js.map": "/gsr-react/static/js/453.09dbb142.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.58524c9e.css",
+    "static/css/main.b694eaa2.css",
     "static/js/main.c8399682.js"
   ]
 }
